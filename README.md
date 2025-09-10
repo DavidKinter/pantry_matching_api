@@ -31,7 +31,7 @@ A REST API that matches recipes to available ingredients in your pantry. Built w
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/DavidKinter/pantry_matching_api.git
 cd recipe-pantry-api
 
 # Install dependencies
